@@ -35,6 +35,7 @@ MonoBehaviour:
     assemblyNames:
     - Assembly-CSharp
     - Assembly-CSharp-firstpass
+    - AYellowpaper.SerializedCollections
     - CW.Common
     - LeanCommon
     - LeanTouch

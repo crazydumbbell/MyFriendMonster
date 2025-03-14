@@ -74,11 +74,30 @@ MonoBehaviour:
     objectVariables: []
     materialVariables: []
     textureVariables: []
-    arrayVariables: []
+    arrayVariables:
+    - useVariable: 1
+      name: Chicken_Info
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      type: 0
+      objectTypeName: UnityEngine.Object
+      floatValues:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      intValues: 
+      boolValues: 
+      stringValues: []
+      vector4Values: []
+      objectReferences: []
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    - Pet
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000001000000000000000000000001000000000000000000000000000000000000000000000000000000
   events:
   - UnClicked
   - Touch
